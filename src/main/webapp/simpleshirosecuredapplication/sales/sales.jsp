@@ -9,7 +9,7 @@
 <body>
 <%@page import="org.meri.simpleshirosecuredapplication.actions.Actions"%>
 
-<form action="/simpleshirosecuredapplication/masterservlet" method="get">
+<form action="/shirodemo/simpleshirosecuredapplication/masterservlet" method="get">
 <%@include file="/simpleshirosecuredapplication/common/commonformstuff.jsp" %>
 <h2>Sales Page</h2>
 This page is meant for sales only. If you are not one, please go away. Available functions:
